@@ -1,2 +1,2 @@
-# Desafio Anmación
-#Github page: https://danielmend3z.github.io/Desafio.css4/
+# Desafio Animación
+# Github page: https://danielmend3z.github.io/Desafio.css4/
